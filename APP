@@ -1,3 +1,0 @@
-   IOS
-   Android(大陆)
-   Android(google play)
